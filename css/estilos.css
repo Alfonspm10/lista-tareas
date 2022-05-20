@@ -19,8 +19,8 @@ body {
 }
 
 .principal {
-	background: #F44336;
-	border-top: 20px solid #D32F2F;
+	background: #1f934f;
+	border-top: 20px solid #2e6c3a;
 	color: #fff;
 	padding: 50px 0;
 	width: 100%;
@@ -44,7 +44,7 @@ body {
 
 .principal .formulario .boton {
 	background: none;
-	border: 1px solid #D32F2F;
+	border: 2px solid #ffffff;
 	color: #fff;
 	display: inline-block;
 	font-size: 16px;
@@ -55,10 +55,7 @@ body {
 	border: 1px solid #fff;
 }
 
-/* - Tareas - */
-.tareas .lista {
-	list-style: none;
-}
+/* - tareas - */
 
 .tareas .lista li {
 	border-bottom: 1px solid #B6B6B6;
